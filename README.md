@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 
+![image alt](https://github.com/shriram-A-2004/HR-Dashboard-/blob/main/Screenshot%202026-06-04%20232324.png?raw=true)
+
 This **HR Dashboard** was developed using **Tableau** to provide a comprehensive view of employee data and workforce insights. The dataset used for this project was generated using **Python Faker**, allowing realistic HR data simulation for analysis and dashboard creation.
 
 The project consists of two dashboards:
